@@ -1,0 +1,4 @@
+﻿  lab4_3.cpp
+C:\Users\Artem\Desktop\lab4_3\lab4_3\lab4_3.cpp(33,23): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Artem\Desktop\lab4_3\lab4_3\lab4_3.cpp(33,40): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  lab4_3.vcxproj -> C:\Users\Artem\Desktop\lab4_3\x64\Debug\lab4_3.exe
